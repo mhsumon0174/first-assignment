@@ -1,0 +1,59 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Trispace', sans-serif;
+
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.background-pic {
+    background-image: url(images/donation.jpg);
+    height: 700px;
+    width: 100%;
+    background-position: cover;
+
+
+}
+
+.headline {
+    height: 200px;
+    width: 800px;
+
+    margin-left: 300px;
+    padding-top: 250px;
+
+
+
+
+}
+
+.headline h1 {
+    color: wheat;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+.headline p {
+    color: wheat;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.donate-class {
+    margin-top: 30px;
+    margin-left: 280px;
+}
+
+.donate-button {
+    text-decoration: none;
+    color: rgb(228, 235, 226);
+    background-color: rgb(189, 64, 64);
+    padding: 15px;
+    border-radius: 10px;
+    font-size: x-large;
+
+}
