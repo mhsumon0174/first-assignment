@@ -113,6 +113,7 @@ body {
 
 
 
+
 .second-donate-class {
     margin-top: 40px;
     margin-left: 600px;
@@ -195,6 +196,33 @@ body {
     text-align: justify;
 }
 
+.email-potion {
+
+    height: 200px;
+    width: 800px;
+    margin-top: 30px;
+    margin-left: 280px
+}
+
+#email {
+    text-align: center;
+    border: 3px solid black;
+    margin-left: 180px;
+    margin-top: 80px;
+    font-size: 32px;
+    background-color: rgb(231, 243, 239);
+
+
+}
+
+#send-button {
+    color: brown;
+    border: 3px black solid;
+    font-size: 32px;
+    margin-left: 0px;
+    background-color: black;
+}
+
 .footer {
     background-color: black;
     height: 100px;
@@ -215,4 +243,82 @@ body {
     text-align: center;
     padding-top: 10px;
 
+}
+
+.extra-section {
+
+    margin-top: 100px;
+    width: 250px;
+    text-align: center;
+    margin-left: 580px;
+    font-size: 32px;
+}
+
+.about-section {
+    height: 300px;
+    width: 900px;
+
+    margin-left: 250px;
+    margin-top: 80px;
+    display: flex;
+}
+
+.about-image-section {
+    height: 300px;
+    width: 300px;
+
+    margin: 10px;
+    margin-left: 90px;
+}
+
+.image-style {
+    height: 300px;
+    width: 300px;
+}
+
+.image-details {
+
+    height: 150px;
+    width: 800px;
+    margin-top: 30px;
+    margin-left: 290px;
+    display: flex;
+
+}
+
+.image-name-one {
+
+    height: 120px;
+    width: 350px;
+    margin-left: 50px;
+
+}
+
+.image-name-two {
+
+    height: 120px;
+    width: 280px;
+    margin-left: 50px;
+
+}
+
+.transaction-section {
+
+    height: 300px;
+    width: 900px;
+    margin-top: 100px;
+    margin-left: 240px;
+}
+
+.transaction-section h2 {
+    text-align: center;
+    font-size: 32px;
+
+}
+
+.transaction-list {
+    margin-left: 300px;
+    margin-top: 60px;
+    font-size: 28px;
+    color: rgb(78, 59, 77);
 }
