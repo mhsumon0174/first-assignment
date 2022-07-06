@@ -67,6 +67,10 @@ body {
     margin-top: 20px;
 }
 
+.second-section h1 {
+    font-size: 38px;
+}
+
 .taka-section {
 
     height: 150px;
@@ -89,4 +93,107 @@ body {
 
 .border-taka {
     border: 3px solid rgb(187, 9, 9);
+}
+
+
+
+.input-style {
+    border: none;
+    border-bottom: 3px solid black;
+    height: 50px;
+    width: 400px;
+    margin-left: 500px;
+}
+
+
+
+.second-donate-class {
+    margin-top: 40px;
+    margin-left: 600px;
+
+}
+
+.third-section {
+    margin-top: 150px;
+    text-align: center;
+
+}
+
+.third-section h1 {
+    font-size: 38px;
+}
+
+.third-section-paragraph {
+    height: 40px;
+    width: 500px;
+    text-align: justify;
+    margin-left: 420px;
+    margin-top: 20px;
+}
+
+.plan-section {
+    height: 350px;
+    width: 100%;
+    margin-top: 70px;
+
+    display: flex;
+}
+
+.plan-one {
+    height: 350px;
+    width: 350px;
+    background-color: rgb(221, 192, 192);
+    margin: 10px;
+    margin-left: 65px
+}
+
+.plan-two {
+    height: 350px;
+    width: 350px;
+    background-color: rgb(167, 139, 139);
+    margin: 10px;
+    margin-left: 65px
+}
+
+.plan-three {
+    height: 350px;
+    width: 350px;
+    background-color: rgb(235, 224, 224);
+    margin: 10px;
+    margin-left: 65px
+}
+
+.plan-icon {
+
+    height: 60px;
+    width: 60px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.plan-paragraph {
+    text-align: justify;
+    margin-top: 20px;
+    padding: 25px;
+}
+
+.footer {
+    background-color: black;
+    height: 100px;
+
+    padding-top: 20px;
+    margin-top: 100px;
+}
+
+.footer h1 {
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.footer h3 {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+
 }
