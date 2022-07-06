@@ -65,6 +65,8 @@ body {
 
 .second-section-paragraph {
     margin-top: 20px;
+    width: 500px;
+    margin-left: 420px;
 }
 
 .second-section h1 {
@@ -103,7 +105,11 @@ body {
     height: 50px;
     width: 400px;
     margin-left: 500px;
+    text-align: center;
+    font-size: 28px;
 }
+
+
 
 
 
@@ -177,6 +183,18 @@ body {
     padding: 25px;
 }
 
+.get-update {
+    margin-top: 90px;
+    text-align: center;
+}
+
+.get-update p {
+    width: 550px;
+    margin-left: 390px;
+    padding-top: 20px;
+    text-align: justify;
+}
+
 .footer {
     background-color: black;
     height: 100px;
@@ -188,6 +206,7 @@ body {
 .footer h1 {
     color: aliceblue;
     text-align: center;
+
 
 }
 
